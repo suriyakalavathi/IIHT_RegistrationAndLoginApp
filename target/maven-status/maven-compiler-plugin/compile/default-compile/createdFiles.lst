@@ -1,0 +1,17 @@
+com\cognizant\regloginapp\dao\UserDaoImpl.class
+com\cognizant\regloginapp\dao\UserRoleDao.class
+com\cognizant\regloginapp\controller\CaptchaController.class
+com\cognizant\regloginapp\controller\LogoutController.class
+com\cognizant\regloginapp\controller\RegistrationController.class
+com\cognizant\regloginapp\dao\UserMapper.class
+com\cognizant\regloginapp\controller\LoginController.class
+com\cognizant\regloginapp\dao\UserDao.class
+com\cognizant\regloginapp\dao\UserRoleDaoImpl.class
+com\cognizant\regloginapp\model\Account.class
+com\cognizant\regloginapp\model\User.class
+com\cognizant\regloginapp\service\UserServiceImpl.class
+com\cognizant\regloginapp\model\Login.class
+com\cognizant\regloginapp\service\UserService.class
+com\cognizant\regloginapp\controller\EditController.class
+com\cognizant\regloginapp\controller\HomeController.class
+com\cognizant\regloginapp\controller\AccountController.class
