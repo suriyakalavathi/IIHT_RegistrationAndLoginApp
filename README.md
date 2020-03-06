@@ -1,4 +1,4 @@
-s14 regloginapp
+regloginapp
 
 Cognizant regloginapp Assignment
 # IIHT_RegistrationAndLoginApp
